@@ -30,7 +30,7 @@ The data is modeled in a star schema with the following tables:
 
 ## 📂 Datasets Used
 
-- Main raw sales data: `SQL - Retail Sales Analysis_utf.csv`
+- Main raw sales data: `SQL - Retail Sales Analysis_utf.csv` as'Factsales.csv'
 - Cleaned dimension tables:
   - `DimCustomer.csv`
   - `DimProduct.csv`
