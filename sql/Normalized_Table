@@ -1,9 +1,0 @@
-*****we have redundant data in factsales table which could be ommitted to make the schema normalized and optimize the processing of information.
-so we are creating a normalized Factsales table*****
-  
-  /normalized_table/
-├── create_normalized_factsales.sql
-├── insert_into_normalized_factsales.sql
-├── drop_old_factsales.sql
-├── rename_normalized_to_factsales.sql
-└── README.md
