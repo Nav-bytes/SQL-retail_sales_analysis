@@ -6,7 +6,7 @@ CREATE TABLE FactSales_Normalized (
     transactions_id VARCHAR(20) PRIMARY KEY,
     date_id INT,
     time_id INT,
-    customer_id VARCHAR(10),
+    customer_id INT,
     product_id INT,
     quantity INT,
     cogs FLOAT,
